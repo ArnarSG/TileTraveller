@@ -1,3 +1,7 @@
+
+x_positon, y_positon = 1,1
+acceptable_moves = ('')
+direction = ''
 def moves(x_positon: int, y_positon: int, direction: str):
     ''' Shows how you move in the game'''
 
